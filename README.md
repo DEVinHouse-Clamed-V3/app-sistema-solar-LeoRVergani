@@ -38,12 +38,12 @@ Siga os passos abaixo para executar o projeto localmente:
 
 1. Clone o repositório para o seu ambiente local:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-solar.git
+   git clone https://github.com/DEVinHouse-Clamed-V3/app-sistema-solar-LeoRVergani.git
    ```
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd sistema-solar
+   cd app-sistema-solar-LeoRVergani
    ```
 
 3. Instale as dependências do projeto:
